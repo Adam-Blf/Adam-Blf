@@ -5,3 +5,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adam-Blf&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Blf&layout=compact&theme=radical)
+
+
+---
+
+<p align="center">
+  <sub>Par <a href="https://adam.beloucif.com">Adam Beloucif</a> · Data Engineer & Fullstack Developer · <a href="https://github.com/Adam-Blf">GitHub</a></sub>
+</p>
