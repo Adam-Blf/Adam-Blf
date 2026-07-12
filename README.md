@@ -17,6 +17,18 @@ Data Engineer & Fullstack Developer · trilingue FR / EN / ES · basé à Paris.
 - **Stack** · Python · TypeScript · C# .NET · Next.js · Flutter · BigQuery · Azure
 - **Recherche alternance M2** · sept. 2026 → sept. 2027 · IDF · grands groupes data / ML / IA
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET-512BD4?logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+
 ---
 
 ## Projets phares
@@ -28,13 +40,22 @@ Station DIM PMSI pour le GHT Sud Paris · Python 3.12 + C# .NET 8 + WebView2. Sc
 PWA Next.js 16 qui extrait les recettes de vidéos YouTube et posts Instagram. Supabase + Stripe + LLM d'extraction structurée. Mobile-first, auth magic link, paywall premium.
 
 ### [Career Ops](https://github.com/Adam-Blf/career-ops)
-Pipeline de recherche d'alternance piloté par Claude Code · 14 modes de skills (scan Greenhouse/Ashby/Lever, scoring A-G, génération CV + LM ciblés, tracker TSV, follow-up cadence). Open-source MIT.
+Pipeline de recherche d'alternance piloté par agents IA · 14 modes de skills (scan Greenhouse/Ashby/Lever, scoring A-G, génération CV + LM ciblés, tracker TSV, follow-up cadence). Open-source MIT.
 
 ### [pgvplaning](https://github.com/Adam-Blf/pgvplaning)
 Planning soignants Fondation Vallée · Next.js + Firebase + Supabase. Version prod déployée sur `planning.beloucif.com`.
 
 ### [A.B.E.L](https://github.com/Adam-Blf/A.B.E.L)
 Assistant Personnel PWA · TypeScript · contextes persistants, mémoire long-terme, intégration agendas.
+
+### [Festayre](https://github.com/Adam-Blf/festayre)
+PWA Next.js 16 pour les ferias du Sud-Ouest · toilettes, alcool pas cher, bus, programme · Supabase + Stripe + Overpass, offline-first.
+
+### [Eden Facturation](https://github.com/Adam-Blf/eden-facturation)
+SaaS de facturation et compta micro-entreprise · Next.js 16 + react-pdf + Supabase · aperçu PDF live, paiements Stripe.
+
+### [Crypto Market Monitor](https://github.com/Adam-Blf/crypto-market-monitor)
+Monitoring crypto temps réel · Kafka + Node.js TS + WebSocket + React · M1 EFREI Real-Time Engineering.
 
 ### [Echo](https://github.com/Adam-Blf/Echo)
 PWA de rencontres · React · authenticité temps réel, matching asynchrone.
@@ -50,7 +71,11 @@ PWA de rencontres · React · authenticité temps réel, matching asynchrone.
 - **[Langue des Signes](https://github.com/Adam-Blf/Langue-des-signes)** · Computer Vision MediaPipe · 7 langues supportées.
 - **[Wine Quality ML](https://github.com/Adam-Blf/ProjetML-EFREI)** · XGBoost + RF · binôme Emilien Morice.
 - **[Doctis IA Générative](https://github.com/Adam-Blf/Projet-IA-Generative-Doctis-AI-mo)** · LLM médical · binôme Amina Medjdoub.
-- **[Urban Data Explorer](https://github.com/Adam-Blf/Urban-data-explorer)** · logement + dynamiques territoriales.
+- **[Urban Data Explorer](https://github.com/Adam-Blf/urban-data-explorer)** · logement + dynamiques territoriales.
+- **[Maintenance Prédictive Industrielle](https://github.com/Adam-Blf/maintenance-predictive-industrielle)** · système intelligent multi-modèles · M1 EFREI BC2.
+- **[MixCraft](https://github.com/Adam-Blf/cocktail-ia-generatif)** · génération de cocktails · SBERT + FAISS + RAG.
+- **[Chest X-Ray Triage](https://github.com/Adam-Blf/chest-xray-triage-system)** · CNN, ResNet, ViT + anomalies VAE · MLflow + Streamlit.
+- **[Olist Medallion Platform](https://github.com/Adam-Blf/projet-bdf-m1-olist)** · Big Data Frameworks · plateforme médaillon Olist.
 
 ## Portfolio & PWA
 
