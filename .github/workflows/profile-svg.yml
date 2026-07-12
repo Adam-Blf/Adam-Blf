@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# Un seul run a la fois : evite la course au push entre cron, dispatch et push
+concurrency:
+  group: profile-svg
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -35,6 +40,7 @@ jobs:
           if ! git diff --quiet assets/; then
             git add assets/terminal-dark.svg assets/terminal-light.svg
             git commit -m "chore: refresh profile stats svg"
+            git pull --rebase origin main
             git push
           else
             echo "No change"
