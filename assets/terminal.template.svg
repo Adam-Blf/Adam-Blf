@@ -5,15 +5,15 @@
   <circle cx="26" cy="22" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="22" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="22" r="6" fill="#27C93F"/>
-  <text x="410" y="27" text-anchor="middle" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="{MUTED}">adam@chevilly-larue: ~</text>
+  <text x="410" y="27" text-anchor="middle" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="{MUTED}">adam@paris: ~</text>
   <g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
-    <text x="28" y="74" fill="{PROMPT}">adam@chevilly-larue:~$ <tspan fill="{TEXT}">neofetch --profil</tspan></text>
+    <text x="28" y="74" fill="{PROMPT}">adam@paris:~$ <tspan fill="{TEXT}">neofetch --profil</tspan></text>
 
     <text x="28" y="106" fill="{ACCENT}" font-weight="bold" font-size="16">Adam Beloucif <tspan fill="{MUTED}" font-weight="normal" font-size="14">(Adam-Blf)</tspan></text>
     <text x="28" y="126" fill="{MUTED}">----------------------------------------</text>
 
     <text x="28" y="152" fill="{LABEL}">Role</text><text x="180" y="152" fill="{TEXT}">Data Engineer &amp; Fullstack Developer</text>
-    <text x="28" y="176" fill="{LABEL}">Ecole</text><text x="180" y="176" fill="{TEXT}">EFREI, M1 Data Engineering &amp; IA (RNCP 40875)</text>
+    <text x="28" y="176" fill="{LABEL}">Ecole</text><text x="180" y="176" fill="{TEXT}">EFREI, M2 Data Engineering &amp; IA (RNCP 40875)</text>
     <text x="28" y="200" fill="{LABEL}">Alternance</text><text x="180" y="200" fill="{TEXT}">Ingenieur PMSI / Data Engineer, DIM PSY, GHT Sud Paris</text>
     <text x="28" y="224" fill="{LABEL}">Langues</text><text x="180" y="224" fill="{TEXT}">Francais, Anglais, Espagnol</text>
     <text x="28" y="248" fill="{LABEL}">Stack</text><text x="180" y="248" fill="{TEXT}">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
