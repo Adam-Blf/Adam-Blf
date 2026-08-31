@@ -6,8 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adambeloucif/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000091?style=for-the-badge&logo=vercel&logoColor=white)](https://adam.beloucif.com)
+[![BLF Lab's](https://img.shields.io/badge/BLF%20Lab's-D4A437?style=for-the-badge&logoColor=001329)](https://beloucif.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.beloucif@efrei.net)
-[![Version](https://img.shields.io/badge/version-2.0.0-D4A437?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-2.1.0-D4A437?style=for-the-badge)](CHANGELOG.md)
 
 <!-- adam-badges:start -->
 [![commits](https://img.shields.io/github/commit-activity/t/Adam-Blf/Adam-Blf?color=001329&label=commits&style=flat-square)](https://github.com/Adam-Blf/Adam-Blf/commits)
@@ -43,6 +44,23 @@ applications mobiles natives.
 | **Associatif** | Vice-président du BDE ISIT, deux mandats, 700 étudiants et 40 nationalités |
 | **Contact** | [adam.beloucif@efrei.net](mailto:adam.beloucif@efrei.net) |
 
+## BLF Lab's
+
+Mon studio de développement, entreprise individuelle immatriculée au RNE en août 2026.
+Je conçois et livre des **sites et des applications sur mesure**, de la maquette à la mise
+en ligne : vitrines, applications métier, boutiques, outils internes.
+
+**[beloucif.com](https://beloucif.com)** porte la vitrine et la prise de commande. Le
+back-office qui va avec gère les demandes entrantes, les projets, les devis et les factures,
+avec authentification à deux facteurs.
+
+| | |
+|---|---|
+| **Site** | [beloucif.com](https://beloucif.com) |
+| **Dépôt** | [blf-labs-site](https://github.com/Adam-Blf/blf-labs-site) |
+| **Stack** | Next.js 16, Tailwind 4, Supabase, Stripe, Resend, déployé sur Vercel |
+| **Zone** | Île-de-France, et à distance |
+
 ## Stack
 
 | Domaine | Outils |
@@ -66,6 +84,8 @@ applications mobiles natives.
 | [Langue-des-signes](https://github.com/Adam-Blf/Langue-des-signes) | Apprentissage de la langue des signes, 7 langues | Vision par ordinateur, deep learning |
 | [bacchana](https://github.com/Adam-Blf/bacchana) | Jeu de soirée, 13 modes, décliné en web, Android et iOS | React 19, Kotlin, SwiftUI |
 | [festayre](https://github.com/Adam-Blf/festayre) | PWA des ferias du Sud-Ouest | Next.js, Supabase, Stripe |
+| [blf-labs-site](https://github.com/Adam-Blf/blf-labs-site) | Vitrine et back-office de BLF Lab's, devis et factures | Next.js 16, Tailwind 4, Supabase, Stripe |
+| [eden-facturation](https://github.com/Adam-Blf/eden-facturation) | 404 Monkey, facturation et gestion pour associations et entreprises | Next.js 16, Supabase, Stripe |
 
 Le détail complet est sur [adam.beloucif.com](https://adam.beloucif.com).
 
