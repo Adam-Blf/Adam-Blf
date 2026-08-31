@@ -5,15 +5,15 @@
   <circle cx="26" cy="22" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="22" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="22" r="6" fill="#27C93F"/>
-  <text x="410" y="27" text-anchor="middle" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#6E7781">adam@chevilly-larue: ~</text>
+  <text x="410" y="27" text-anchor="middle" font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#6E7781">adam@paris: ~</text>
   <g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
-    <text x="28" y="74" fill="#1A7F37">adam@chevilly-larue:~$ <tspan fill="#24292F">neofetch --profil</tspan></text>
+    <text x="28" y="74" fill="#1A7F37">adam@paris:~$ <tspan fill="#24292F">neofetch --profil</tspan></text>
 
     <text x="28" y="106" fill="#001329" font-weight="bold" font-size="16">Adam Beloucif <tspan fill="#6E7781" font-weight="normal" font-size="14">(Adam-Blf)</tspan></text>
     <text x="28" y="126" fill="#6E7781">----------------------------------------</text>
 
     <text x="28" y="152" fill="#B08020">Role</text><text x="180" y="152" fill="#24292F">Data Engineer &amp; Fullstack Developer</text>
-    <text x="28" y="176" fill="#B08020">Ecole</text><text x="180" y="176" fill="#24292F">EFREI, M1 Data Engineering &amp; IA (RNCP 40875)</text>
+    <text x="28" y="176" fill="#B08020">Ecole</text><text x="180" y="176" fill="#24292F">EFREI, M2 Data Engineering &amp; IA (RNCP 40875)</text>
     <text x="28" y="200" fill="#B08020">Alternance</text><text x="180" y="200" fill="#24292F">Ingenieur PMSI / Data Engineer, DIM PSY, GHT Sud Paris</text>
     <text x="28" y="224" fill="#B08020">Langues</text><text x="180" y="224" fill="#24292F">Francais, Anglais, Espagnol</text>
     <text x="28" y="248" fill="#B08020">Stack</text><text x="180" y="248" fill="#24292F">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
@@ -22,7 +22,7 @@
     <text x="28" y="304" fill="#B08020">Repos</text><text x="180" y="304" fill="#24292F">69 publics</text>
     <text x="360" y="304" fill="#B08020">Stars</text><text x="430" y="304" fill="#24292F">5</text>
     <text x="520" y="304" fill="#B08020">Followers</text><text x="630" y="304" fill="#24292F">3</text>
-    <text x="28" y="328" fill="#B08020">Commits</text><text x="180" y="328" fill="#24292F">1 724 au total</text>
+    <text x="28" y="328" fill="#B08020">Commits</text><text x="180" y="328" fill="#24292F">2 491 au total</text>
 
     <text x="28" y="358" fill="#6E7781" font-size="12">adam.beloucif.com, linkedin.com/in/adambeloucif</text>
     <text x="792" y="358" text-anchor="end" fill="#6E7781" font-size="12">maj 31/08/2026</text>
