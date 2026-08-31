@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="380" viewBox="0 0 820 380" role="img" aria-label="Carte de stats GitHub de Adam Beloucif, style terminal">
-  <rect x="1" y="1" width="818" height="378" rx="12" fill="{BG}" stroke="{BORDER}" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="404" viewBox="0 0 820 404" role="img" aria-label="Carte de stats GitHub de Adam Beloucif, style terminal">
+  <rect x="1" y="1" width="818" height="402" rx="12" fill="{BG}" stroke="{BORDER}" stroke-width="2"/>
   <rect x="2" y="2" width="816" height="40" rx="10" fill="{TITLEBAR}"/>
   <rect x="2" y="30" width="816" height="14" fill="{TITLEBAR}"/>
   <circle cx="26" cy="22" r="6" fill="#FF5F56"/>
@@ -15,16 +15,17 @@
     <text x="28" y="152" fill="{LABEL}">Role</text><text x="180" y="152" fill="{TEXT}">Data Engineer &amp; Fullstack Developer</text>
     <text x="28" y="176" fill="{LABEL}">Ecole</text><text x="180" y="176" fill="{TEXT}">EFREI, M2 Data Engineering &amp; IA (RNCP 40875)</text>
     <text x="28" y="200" fill="{LABEL}">Alternance</text><text x="180" y="200" fill="{TEXT}">Ingenieur PMSI / Data Engineer, DIM PSY, GHT Sud Paris</text>
-    <text x="28" y="224" fill="{LABEL}">Langues</text><text x="180" y="224" fill="{TEXT}">Francais, Anglais, Espagnol</text>
-    <text x="28" y="248" fill="{LABEL}">Stack</text><text x="180" y="248" fill="{TEXT}">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
-    <text x="28" y="272" fill="{LABEL}">Uptime</text><text x="180" y="272" fill="{TEXT}">{AGE}</text>
+    <text x="28" y="224" fill="{LABEL}">Studio</text><text x="180" y="224" fill="{TEXT}">BLF Lab's, sites et applications sur mesure, beloucif.com</text>
+    <text x="28" y="248" fill="{LABEL}">Langues</text><text x="180" y="248" fill="{TEXT}">Francais, Anglais, Espagnol</text>
+    <text x="28" y="272" fill="{LABEL}">Stack</text><text x="180" y="272" fill="{TEXT}">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
+    <text x="28" y="296" fill="{LABEL}">Uptime</text><text x="180" y="296" fill="{TEXT}">{AGE}</text>
 
-    <text x="28" y="304" fill="{LABEL}">Repos</text><text x="180" y="304" fill="{TEXT}">{REPOS} publics</text>
-    <text x="360" y="304" fill="{LABEL}">Stars</text><text x="430" y="304" fill="{TEXT}">{STARS}</text>
-    <text x="520" y="304" fill="{LABEL}">Followers</text><text x="630" y="304" fill="{TEXT}">{FOLLOWERS}</text>
-    <text x="28" y="328" fill="{LABEL}">Commits</text><text x="180" y="328" fill="{TEXT}">{COMMITS} au total</text>
+    <text x="28" y="328" fill="{LABEL}">Repos</text><text x="180" y="328" fill="{TEXT}">{REPOS} publics</text>
+    <text x="360" y="328" fill="{LABEL}">Stars</text><text x="430" y="328" fill="{TEXT}">{STARS}</text>
+    <text x="520" y="328" fill="{LABEL}">Followers</text><text x="630" y="328" fill="{TEXT}">{FOLLOWERS}</text>
+    <text x="28" y="352" fill="{LABEL}">Commits</text><text x="180" y="352" fill="{TEXT}">{COMMITS} au total</text>
 
-    <text x="28" y="358" fill="{MUTED}" font-size="12">adam.beloucif.com, linkedin.com/in/adambeloucif</text>
-    <text x="792" y="358" text-anchor="end" fill="{MUTED}" font-size="12">maj {UPDATED}</text>
+    <text x="28" y="382" fill="{MUTED}" font-size="12">beloucif.com, adam.beloucif.com, linkedin.com/in/adambeloucif</text>
+    <text x="792" y="382" text-anchor="end" fill="{MUTED}" font-size="12">maj {UPDATED}</text>
   </g>
 </svg>

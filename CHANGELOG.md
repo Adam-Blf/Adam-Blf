@@ -4,6 +4,23 @@ Format [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/), versions en
 [semver](https://semver.org/lang/fr/). La source de vérité du numéro est le
 fichier `VERSION`, propagé au badge du README par `scripts/sync_version.py`.
 
+## [2.1.0] - 2026-08-31
+
+### Ajouté
+
+- Section **BLF Lab's** : le studio, l'entreprise individuelle, ce qu'il livre, et le
+  site [beloucif.com](https://beloucif.com) avec son back-office.
+- Badge BLF Lab's dans l'en-tête, à côté de LinkedIn, Portfolio et Email.
+- Ligne **Studio** sur la carte terminal, et `beloucif.com` en pied de carte.
+- Deux projets de plus au tableau : `blf-labs-site` et `eden-facturation`.
+
+### Note
+
+- Aucun identifiant légal n'est publié sur le profil : ni SIREN, ni SIRET, ni code APE,
+  ni adresse du siège. Ils n'ont rien à y faire, ils vivent sur les mentions légales du
+  site et sur les factures, là où la loi les exige.
+- Le site du studio est sur **beloucif.com**, pas sur `blflabs.com` qui ne répond pas.
+
 ## [2.0.0] - 2026-08-31
 
 ### Ajouté

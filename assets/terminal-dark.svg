@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="380" viewBox="0 0 820 380" role="img" aria-label="Carte de stats GitHub de Adam Beloucif, style terminal">
-  <rect x="1" y="1" width="818" height="378" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="404" viewBox="0 0 820 404" role="img" aria-label="Carte de stats GitHub de Adam Beloucif, style terminal">
+  <rect x="1" y="1" width="818" height="402" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
   <rect x="2" y="2" width="816" height="40" rx="10" fill="#161B22"/>
   <rect x="2" y="30" width="816" height="14" fill="#161B22"/>
   <circle cx="26" cy="22" r="6" fill="#FF5F56"/>
@@ -15,16 +15,17 @@
     <text x="28" y="152" fill="#D4A437">Role</text><text x="180" y="152" fill="#C9D1D9">Data Engineer &amp; Fullstack Developer</text>
     <text x="28" y="176" fill="#D4A437">Ecole</text><text x="180" y="176" fill="#C9D1D9">EFREI, M2 Data Engineering &amp; IA (RNCP 40875)</text>
     <text x="28" y="200" fill="#D4A437">Alternance</text><text x="180" y="200" fill="#C9D1D9">Ingenieur PMSI / Data Engineer, DIM PSY, GHT Sud Paris</text>
-    <text x="28" y="224" fill="#D4A437">Langues</text><text x="180" y="224" fill="#C9D1D9">Francais, Anglais, Espagnol</text>
-    <text x="28" y="248" fill="#D4A437">Stack</text><text x="180" y="248" fill="#C9D1D9">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
-    <text x="28" y="272" fill="#D4A437">Uptime</text><text x="180" y="272" fill="#C9D1D9">22 ans, 72 jours</text>
+    <text x="28" y="224" fill="#D4A437">Studio</text><text x="180" y="224" fill="#C9D1D9">BLF Lab's, sites et applications sur mesure, beloucif.com</text>
+    <text x="28" y="248" fill="#D4A437">Langues</text><text x="180" y="248" fill="#C9D1D9">Francais, Anglais, Espagnol</text>
+    <text x="28" y="272" fill="#D4A437">Stack</text><text x="180" y="272" fill="#C9D1D9">Python, TypeScript, C# .NET, Next.js, Spark, Kafka, Azure</text>
+    <text x="28" y="296" fill="#D4A437">Uptime</text><text x="180" y="296" fill="#C9D1D9">22 ans, 72 jours</text>
 
-    <text x="28" y="304" fill="#D4A437">Repos</text><text x="180" y="304" fill="#C9D1D9">69 publics</text>
-    <text x="360" y="304" fill="#D4A437">Stars</text><text x="430" y="304" fill="#C9D1D9">5</text>
-    <text x="520" y="304" fill="#D4A437">Followers</text><text x="630" y="304" fill="#C9D1D9">3</text>
-    <text x="28" y="328" fill="#D4A437">Commits</text><text x="180" y="328" fill="#C9D1D9">1 725 au total</text>
+    <text x="28" y="328" fill="#D4A437">Repos</text><text x="180" y="328" fill="#C9D1D9">69 publics</text>
+    <text x="360" y="328" fill="#D4A437">Stars</text><text x="430" y="328" fill="#C9D1D9">5</text>
+    <text x="520" y="328" fill="#D4A437">Followers</text><text x="630" y="328" fill="#C9D1D9">3</text>
+    <text x="28" y="352" fill="#D4A437">Commits</text><text x="180" y="352" fill="#C9D1D9">2 493 au total</text>
 
-    <text x="28" y="358" fill="#8B949E" font-size="12">adam.beloucif.com, linkedin.com/in/adambeloucif</text>
-    <text x="792" y="358" text-anchor="end" fill="#8B949E" font-size="12">maj 31/08/2026</text>
+    <text x="28" y="382" fill="#8B949E" font-size="12">beloucif.com, adam.beloucif.com, linkedin.com/in/adambeloucif</text>
+    <text x="792" y="382" text-anchor="end" fill="#8B949E" font-size="12">maj 31/08/2026</text>
   </g>
 </svg>
