@@ -4,6 +4,29 @@ Format [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/), versions en
 [semver](https://semver.org/lang/fr/). La source de vérité du numéro est le
 fichier `VERSION`, propagé au badge du README par `scripts/sync_version.py`.
 
+## [2.2.0] - 2026-08-31
+
+### Retiré
+
+- Le badge **Portfolio** et tous les renvois vers `adam.beloucif.com`, en en-tête, dans le
+  tableau des projets, en pied de README et en pied de carte terminal.
+
+  Motif : le domaine sert encore la démonstration du thème acheté. Le `<h1>` de la page
+  dit littéralement « NOUS SOMMES PIXZEN », et `grep -c -i pixzen` rend 9 là où la garde
+  écrite le 08/08/2026 exige 0. Le domaine reste attaché au projet Vercel `portfolio-adam`,
+  dont le dernier déploiement de production date du 14/04/2026, et non au projet qui
+  construit `Adam-Blf/adam-portfolio`. Un profil public ne renvoie pas vers une page de
+  démonstration.
+
+### Modifié
+
+- Le lien du studio devient le seul site du profil : badge **BLF Lab's** en navy et laiton,
+  pied de README et pied de carte terminal sur `beloucif.com`.
+- Le renvoi du tableau des projets pointe vers
+  [beloucif.com/references](https://beloucif.com/references), vérifié à 200.
+
+Le lien vers `adam.beloucif.com` reviendra quand le domaine servira le portfolio.
+
 ## [2.1.0] - 2026-08-31
 
 ### Ajouté

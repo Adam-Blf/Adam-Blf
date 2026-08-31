@@ -5,10 +5,9 @@
 **Data Engineer & Fullstack Developer** - M2 Data Engineering & IA à l'EFREI - Paris
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adambeloucif/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000091?style=for-the-badge&logo=vercel&logoColor=white)](https://adam.beloucif.com)
-[![BLF Lab's](https://img.shields.io/badge/BLF%20Lab's-D4A437?style=for-the-badge&logoColor=001329)](https://beloucif.com)
+[![BLF Lab's](https://img.shields.io/badge/BLF%20Lab's-001329?style=for-the-badge&logo=vercel&logoColor=D4A437)](https://beloucif.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.beloucif@efrei.net)
-[![Version](https://img.shields.io/badge/version-2.1.0-D4A437?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-2.2.0-D4A437?style=for-the-badge)](CHANGELOG.md)
 
 <!-- adam-badges:start -->
 [![commits](https://img.shields.io/github/commit-activity/t/Adam-Blf/Adam-Blf?color=001329&label=commits&style=flat-square)](https://github.com/Adam-Blf/Adam-Blf/commits)
@@ -87,7 +86,7 @@ avec authentification à deux facteurs.
 | [blf-labs-site](https://github.com/Adam-Blf/blf-labs-site) | Vitrine et back-office de BLF Lab's, devis et factures | Next.js 16, Tailwind 4, Supabase, Stripe |
 | [eden-facturation](https://github.com/Adam-Blf/eden-facturation) | 404 Monkey, facturation et gestion pour associations et entreprises | Next.js 16, Supabase, Stripe |
 
-Le détail complet est sur [adam.beloucif.com](https://adam.beloucif.com).
+Les réalisations livrées sous BLF Lab's sont sur [beloucif.com/references](https://beloucif.com/references).
 
 ## Statistiques
 
@@ -125,5 +124,5 @@ flowchart LR
 ```
 
 <div align="center">
-<sub><a href="https://adam.beloucif.com">adam.beloucif.com</a>, Data Engineer & Fullstack Developer</sub>
+<sub><a href="https://beloucif.com">beloucif.com</a>, Data Engineer & Fullstack Developer</sub>
 </div>

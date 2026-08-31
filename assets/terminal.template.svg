@@ -25,7 +25,7 @@
     <text x="520" y="328" fill="{LABEL}">Followers</text><text x="630" y="328" fill="{TEXT}">{FOLLOWERS}</text>
     <text x="28" y="352" fill="{LABEL}">Commits</text><text x="180" y="352" fill="{TEXT}">{COMMITS} au total</text>
 
-    <text x="28" y="382" fill="{MUTED}" font-size="12">beloucif.com, adam.beloucif.com, linkedin.com/in/adambeloucif</text>
+    <text x="28" y="382" fill="{MUTED}" font-size="12">beloucif.com, linkedin.com/in/adambeloucif</text>
     <text x="792" y="382" text-anchor="end" fill="{MUTED}" font-size="12">maj {UPDATED}</text>
   </g>
 </svg>
