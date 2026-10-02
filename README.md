@@ -121,6 +121,13 @@ flowchart LR
   topics["sync-topics.yml"] --> repos["Topics des dépôts Adam-Blf"]
   out --> readme
   branch --> readme
+
+  classDef c0 fill:#2563eb,stroke:#1e3a8a,stroke-width:2px,color:#ffffff
+  classDef c1 fill:#7c3aed,stroke:#4c1d95,stroke-width:2px,color:#ffffff
+  classDef c2 fill:#0891b2,stroke:#164e63,stroke-width:2px,color:#ffffff
+  class cron,api,tpl,ver,snake,topics c0
+  class svg,sync,branch,repos c1
+  class out,readme c2
 ```
 
 <div align="center">
